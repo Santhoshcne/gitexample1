@@ -11,4 +11,4 @@ access_points = json_object['accessPoints']
 print(access_points)
 #for ap in access_points:
  	#print('Access Point: ' + ap['name'] + '\t mac: ' + ap['radioMacAddress'])
-response.close()
+
